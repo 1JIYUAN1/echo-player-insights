@@ -1,0 +1,14 @@
+{
+  "name": "echo-player-insights",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An explainable player-feedback triage workspace for game operations and AI product practice.",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
